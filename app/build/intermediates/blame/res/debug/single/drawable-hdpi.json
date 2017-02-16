@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/personal/Downloads/trunk/app/build/intermediates/res/merged/debug/drawable-hdpi/edit.png",
+        "source": "/Users/personal/Downloads/trunk/app/src/main/res/drawable-hdpi/edit.png"
+    },
+    {
+        "merged": "/Users/personal/Downloads/trunk/app/build/intermediates/res/merged/debug/drawable-hdpi/button.9.png",
+        "source": "/Users/personal/Downloads/trunk/app/src/main/res/drawable-hdpi/button.9.png"
+    },
+    {
+        "merged": "/Users/personal/Downloads/trunk/app/build/intermediates/res/merged/debug/drawable-hdpi/balloons.png",
+        "source": "/Users/personal/Downloads/trunk/app/src/main/res/drawable-hdpi/balloons.png"
+    },
+    {
+        "merged": "/Users/personal/Downloads/trunk/app/build/intermediates/res/merged/debug/drawable-hdpi/balloon.png",
+        "source": "/Users/personal/Downloads/trunk/app/src/main/res/drawable-hdpi/balloon.png"
+    },
+    {
+        "merged": "/Users/personal/Downloads/trunk/app/build/intermediates/res/merged/debug/drawable-hdpi/del.png",
+        "source": "/Users/personal/Downloads/trunk/app/src/main/res/drawable-hdpi/del.png"
+    },
+    {
+        "merged": "/Users/personal/Downloads/trunk/app/build/intermediates/res/merged/debug/drawable-hdpi/balloons2.png",
+        "source": "/Users/personal/Downloads/trunk/app/src/main/res/drawable-hdpi/balloons2.png"
+    },
+    {
+        "merged": "/Users/personal/Downloads/trunk/app/build/intermediates/res/merged/debug/drawable-hdpi/icon.png",
+        "source": "/Users/personal/Downloads/trunk/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/personal/Downloads/trunk/app/build/intermediates/res/merged/debug/drawable-hdpi/textbox.9.png",
+        "source": "/Users/personal/Downloads/trunk/app/src/main/res/drawable-hdpi/textbox.9.png"
+    }
+]

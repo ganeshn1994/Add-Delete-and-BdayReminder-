@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notificationTitle">
+        <item quantity="one">%d Birthday</item>
+        <item quantity="other">%d Birthdays</item>
+    </plurals>
+    <string name="account_icon">account icon</string>
+    <string name="add_date_of_birth">add date of birth</string>
+    <string name="addcont">Insert Contact</string>
+    <string name="app_name">Birthday Reminder</string>
+    <string name="butinsert">Add Contact</string>
+    <string name="cancel">Cancel</string>
+    <string name="contextMenuTitle">Date of birth</string>
+    <string name="contextMenu_create">create</string>
+    <string name="contextMenu_delete">delete</string>
+    <string name="contextMenu_edit">edit</string>
+    <string name="delinsert">Delete Contact</string>
+    <string name="dialogTitle">Date of birth</string>
+    <string name="editor_phone">Phone</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hnt_et_home_email">Home Email</string>
+    <string name="hnt_et_home_phone">Home Phone</string>
+    <string name="hnt_et_mobile_phone">Mobile Phone</string>
+    <string name="hnt_et_name">Display Name</string>
+    <string name="hnt_et_work_email">Work Email</string>
+    <string name="knownBirthdays">Next birthdays</string>
+    <string name="menu_settings">Settings</string>
+    <string name="new_birthday">+</string>
+    <string name="notificationText_other">in %1$d days: %2$s</string>
+    <string name="notificationText_today">today: %s</string>
+    <string name="notificationText_tomorrow">tomorrow: %s</string>
+    <string name="ok">OK</string>
+    <string name="preferences">Settings</string>
+    <string name="preferences_name">Birthday Reminder Preferences</string>
+    <string name="quit">Quit service</string>
+    <string name="str_btn_add">Add Contact</string>
+    <string name="str_btn_contacts">Contacts List</string>
+    <string name="summary_other">turns %2$d in %1$d days</string>
+    <string name="summary_today">turns %d today</string>
+    <string name="summary_tomorrow">turns %d tomorrow</string>
+    <string name="title">%s</string>
+    <string name="title_activity_main">Add Contact Demo</string>
+    <string name="unknownBirthdays">Birthdays unknown</string>
+</resources>

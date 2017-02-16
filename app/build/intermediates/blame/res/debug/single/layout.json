@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/personal/Downloads/trunk/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/personal/Downloads/trunk/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/personal/Downloads/trunk/app/build/intermediates/res/merged/debug/layout/deletecontact.xml",
+        "source": "/Users/personal/Downloads/trunk/app/src/main/res/layout/deletecontact.xml"
+    },
+    {
+        "merged": "/Users/personal/Downloads/trunk/app/build/intermediates/res/merged/debug/layout/editor_dateofbirth.xml",
+        "source": "/Users/personal/Downloads/trunk/app/src/main/res/layout/editor_dateofbirth.xml"
+    },
+    {
+        "merged": "/Users/personal/Downloads/trunk/app/build/intermediates/res/merged/debug/layout/editor_account.xml",
+        "source": "/Users/personal/Downloads/trunk/app/src/main/res/layout/editor_account.xml"
+    },
+    {
+        "merged": "/Users/personal/Downloads/trunk/app/build/intermediates/res/merged/debug/layout/birth_contact.xml",
+        "source": "/Users/personal/Downloads/trunk/app/src/main/res/layout/birth_contact.xml"
+    },
+    {
+        "merged": "/Users/personal/Downloads/trunk/app/build/intermediates/res/merged/debug/layout/menu.xml",
+        "source": "/Users/personal/Downloads/trunk/app/src/main/res/layout/menu.xml"
+    },
+    {
+        "merged": "/Users/personal/Downloads/trunk/app/build/intermediates/res/merged/debug/layout/editor.xml",
+        "source": "/Users/personal/Downloads/trunk/app/src/main/res/layout/editor.xml"
+    },
+    {
+        "merged": "/Users/personal/Downloads/trunk/app/build/intermediates/res/merged/debug/layout/preferences.xml",
+        "source": "/Users/personal/Downloads/trunk/app/src/main/res/layout/preferences.xml"
+    },
+    {
+        "merged": "/Users/personal/Downloads/trunk/app/build/intermediates/res/merged/debug/layout/lv_layout.xml",
+        "source": "/Users/personal/Downloads/trunk/app/src/main/res/layout/lv_layout.xml"
+    },
+    {
+        "merged": "/Users/personal/Downloads/trunk/app/build/intermediates/res/merged/debug/layout/addcontact.xml",
+        "source": "/Users/personal/Downloads/trunk/app/src/main/res/layout/addcontact.xml"
+    }
+]

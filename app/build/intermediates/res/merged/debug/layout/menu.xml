@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="wrap_content"
+	android:layout_height="fill_parent">
+	<item android:id="@+id/preferences" android:icon="@android:drawable/ic_menu_preferences"
+		android:title="@string/preferences"
+		android:layout_height="wrap_content"
+		android:layout_width="wrap_content" />
+
+	<item android:id="@+id/butinsert" android:icon="@android:drawable/ic_menu_preferences"
+		android:title="@string/butinsert"
+		android:layout_height="wrap_content"
+		android:layout_width="wrap_content" />
+
+	<item android:id="@+id/delinsert" android:icon="@android:drawable/ic_menu_preferences"
+		android:title="@string/delinsert"
+		android:layout_height="wrap_content"
+		android:layout_width="wrap_content" />
+
+	<item android:id="@+id/addcont" android:icon="@android:drawable/ic_menu_preferences"
+		android:title="@string/delinsert"
+		android:layout_height="wrap_content"
+		android:layout_width="wrap_content" />
+
+	<item android:id="@+id/quit" android:icon="@android:drawable/ic_menu_close_clear_cancel"
+		android:title="@string/quit"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content" />
+	<item
+	android:id="@+id/item1"
+	android:icon="@android:drawable/ic_input_add"
+	android:title="Add"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content" />
+</menu>

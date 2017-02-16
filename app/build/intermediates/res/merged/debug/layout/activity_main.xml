@@ -1,0 +1,58 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <EditText
+        android:id="@+id/et_name"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:hint="@string/hnt_et_name" />
+
+    <EditText
+        android:id="@+id/et_mobile_phone"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/et_name"
+        android:inputType="phone"
+        android:hint="@string/hnt_et_mobile_phone" />
+
+    <EditText
+        android:id="@+id/et_home_phone"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/et_mobile_phone"
+        android:inputType="phone"
+        android:hint="@string/hnt_et_home_phone" />
+
+    <EditText
+        android:id="@+id/et_work_email"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/et_home_phone"
+        android:inputType="textEmailAddress"
+        android:hint="@string/hnt_et_work_email" />
+
+    <EditText
+        android:id="@+id/et_home_email"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/et_work_email"
+        android:inputType="textEmailAddress"
+        android:hint="@string/hnt_et_home_email" />
+
+    <Button
+        android:id="@+id/btn_add"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/et_home_email"
+        android:text="@string/str_btn_add" />
+
+    <Button
+        android:id="@+id/btn_contacts"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btn_add"
+        android:text="@string/str_btn_contacts" />
+</RelativeLayout>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/personal/Downloads/trunk/app/build/intermediates/res/merged/debug/drawable-mdpi/balloons.png",
+        "source": "/Users/personal/Downloads/trunk/app/src/main/res/drawable-mdpi/balloons.png"
+    },
+    {
+        "merged": "/Users/personal/Downloads/trunk/app/build/intermediates/res/merged/debug/drawable-mdpi/icon.png",
+        "source": "/Users/personal/Downloads/trunk/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/personal/Downloads/trunk/app/build/intermediates/res/merged/debug/drawable-mdpi/balloon.png",
+        "source": "/Users/personal/Downloads/trunk/app/src/main/res/drawable-mdpi/balloon.png"
+    },
+    {
+        "merged": "/Users/personal/Downloads/trunk/app/build/intermediates/res/merged/debug/drawable-mdpi/balloons2.png",
+        "source": "/Users/personal/Downloads/trunk/app/src/main/res/drawable-mdpi/balloons2.png"
+    }
+]
